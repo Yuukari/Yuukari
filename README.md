@@ -10,10 +10,17 @@
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
     <br>
     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-    <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express">
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+    <br>
+    <br>
+  <p>Also I work with:</p>
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+    <img src="https://img.shields.io/badge/Arduino-00979d?style=for-the-badge&logo=arduino&logoColor=white">
+    <img src="https://img.shields.io/badge/ESP8266-e7352c?style=for-the-badge&logo=espressif&logoColor=white">
   
   <h2>Projects that I'm currently working on</h2>
     <p>
@@ -33,6 +40,7 @@
     <a href="https://wakatime.com/@6d3aa565-113a-487f-a95c-5beecd7bc529">
       <img src="https://wakatime.com/badge/user/6d3aa565-113a-487f-a95c-5beecd7bc529.svg" alt="Total time coded since Jan 21 2021"/>
     </a>
+    <img src="https://komarev.com/ghpvc/?username=Yuukari">
     <br><br>
     <a href="https://t.me/iamyuukari">
       <img src="https://img.shields.io/badge/Telegram-2ca5e0?style=for-the-badge&logo=telegram&logoColor=white">
