@@ -35,14 +35,18 @@
   <br>
   
   <h2>Some statictics and socials</h2>
-    <a href="https://vk.com/iamyuukari">
+    <a href="https://wakatime.com/@6d3aa565-113a-487f-a95c-5beecd7bc529">
+      <img src="https://wakatime.com/badge/user/6d3aa565-113a-487f-a95c-5beecd7bc529.svg" alt="Total time coded since Jan 21 2021"/>
+    </a>
+    <br><br>
+    <a href="https://vk.com/yuukari">
       <img src="https://img.shields.io/badge/Vk-07F?style=for-the-badge&logo=vk&logoColor=white" alt="VK profile">
     </a>
     <a href="https://instagram.com/iamyuukari">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram profile">
     </a>
-    <br>
-    <a href="https://wakatime.com/@6d3aa565-113a-487f-a95c-5beecd7bc529">
-      <img src="https://wakatime.com/badge/user/6d3aa565-113a-487f-a95c-5beecd7bc529.svg" alt="Total time coded since Jan 21 2021"/>
+    <a href="https://habr.com/users/Yuukari/">
+      <img src="https://img.shields.io/badge/Habr-619ebb?style=for-the-badge&logo=habr&logoColor=white" alt="Habr profile">
     </a>
+
 </div>
