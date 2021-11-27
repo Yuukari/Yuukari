@@ -25,7 +25,7 @@
   <h2>Projects that I'm currently working on</h2>
     <p>
       <a href="https://github.com/Yuukari/wirone"><h3>Yuukari/wirone 💡🌐</h3></a>
-      Wirone is a micro-framework for creating Yandex Smarthome Provider API
+      Wirone is a micro-framework for creating Yandex Smarthome Adapter API
     </p>
     <p>
       <a href="https://github.com/Yuukari/BipTask"><h3>Yuukari/BipTask ⚙️⌚️</h3></a>
