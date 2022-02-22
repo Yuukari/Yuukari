@@ -38,9 +38,9 @@
   
   <h2>Some statictics and socials</h2>
     <a href="https://wakatime.com/@6d3aa565-113a-487f-a95c-5beecd7bc529">
-      <img src="https://wakatime.com/badge/user/6d3aa565-113a-487f-a95c-5beecd7bc529.svg" alt="Total time coded since Jan 21 2021"/>
+      <img src="https://wakatime.com/badge/user/6d3aa565-113a-487f-a95c-5beecd7bc529.svg?style=flat-square" alt="Total time coded since Jan 21 2021"/>
     </a>
-    <img src="https://komarev.com/ghpvc/?username=Yuukari">
+    <img src="https://komarev.com/ghpvc/?username=Yuukari&style=flat-square">
     <br><br>
     <a href="https://t.me/iamyuukari">
       <img src="https://img.shields.io/badge/Telegram-2ca5e0?style=for-the-badge&logo=telegram&logoColor=white">
